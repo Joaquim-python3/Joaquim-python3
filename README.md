@@ -1,4 +1,4 @@
-- ⚡ Salve! me chamo Joaquim Cabral
+- ⚡ Salve! Me chamo Joaquim Cabral
 - ⚡ Bem vindo ao meu perfil do GitHub
 
 ### Estou aprendendo:
